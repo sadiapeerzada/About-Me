@@ -20,7 +20,7 @@
 
 ---
 
-## Current Repositry 
+## 🗂️ Current Repositry 
 -Java Programshttps://github.com/sadiapeerzada/java-projects – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
 -C Programshttps://github.com/sadiapeerzada/c-programs – A collection of foundational C programs covering data structures, algorithms, and problem-solving exercises, focused on building strong programming fundamentals.
 
