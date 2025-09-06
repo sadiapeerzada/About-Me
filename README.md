@@ -14,6 +14,24 @@
 - **Other Skills:** Logical reasoning, analytical thinking, and solving coding challenges to strengthen programming fundamentals
 - **Developer Tools:** Github, Replit, VS Code, Intellij IDEA, Dev C
 - **Other Interests:** API Integration, Web Applications, Interactive and Responsive Projects
-- **Coursework:** Learning Java, Computer Architecture, Statistics, and Mathematics, for a strong grasp on logic-building while working on side projects in Web Development. 
+- **Coursework:** Learning Java, Computer Architecture, Statistics, and Mathematics, for a strong grasp on logic-building while working on side projects in Web Development.
+
+
+
+---
+
+## Current Repositry 
+-Java Programshttps://github.com/sadiapeerzada/java-projects – Weekly lab assignments focused on strengthening object-oriented programming concepts and problem-solving in Java.
+-C Programshttps://github.com/sadiapeerzada/c-programs – A collection of foundational C programs covering data structures, algorithms, and problem-solving exercises, focused on building strong programming fundamentals.
+
+
+
+---
+
+## 📬 How to Reach Me
+- **GitHub:**sadiapeerzada
+- **LinkedIn:**Sadia Peerzada
+- **Email**:sadiapeerzada2006@gmail.com
+
 
 
