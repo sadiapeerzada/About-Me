@@ -30,7 +30,7 @@
 
 ## 📬 How to Reach Me
 - **GitHub:** https://github.com/sadiapeerzada
-- **LinkedIn:** in/sadia-peerzada
+- **LinkedIn:** https://www.linkedin.com/in/sadia-peerzada
 - **Email:** sadiapeerzada2006@gmail.com
 
 
