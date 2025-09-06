@@ -29,9 +29,9 @@
 ---
 
 ## 📬 How to Reach Me
-- **GitHub:**sadiapeerzada
-- **LinkedIn:**Sadia Peerzada
-- **Email**:sadiapeerzada2006@gmail.com
+- **GitHub:** https://github.com/sadiapeerzada
+- **LinkedIn:** in/sadia-peerzada
+- **Email:** sadiapeerzada2006@gmail.com
 
 
 
