@@ -1,4 +1,4 @@
-# Hey, This is Sadia Peerzada
+# Hey, This is Sadia Peerzada👋
   **About-Me**
 - Second-year B.Sc. Computer Science undergraduate who aspires to become a full-stack developer 
 - Passionate about coding, problem-solving, exploring new technologies and building software solutions
