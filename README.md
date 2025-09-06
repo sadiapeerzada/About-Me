@@ -28,8 +28,8 @@
 ---
 
 ## 📬 How to Reach Me
-- **GitHub:** https://github.com/sadiapeerzada
-- **LinkedIn:** https://www.linkedin.com/in/sadia-peerzada
+- **GitHub:**[sadia peerzada](https://github.com/sadiapeerzada)
+- **LinkedIn:**[sadiapeerzada](https://www.linkedin.com/in/sadia-peerzada)
 - **Email:** sadiapeerzada2006@gmail.com
 
 
